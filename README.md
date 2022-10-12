@@ -22,6 +22,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+![](https://imgrosetta.mynet.com.tr/file/11380464/1024xauto.jpg)
+
 
 
 
